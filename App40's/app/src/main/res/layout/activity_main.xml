@@ -24,7 +24,7 @@
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:text="REC"
-        android:id="@+id/button"
+        android:id="@+id/rec"
         android:layout_above="@+id/progressBar"
         android:layout_centerHorizontal="true" />
 
